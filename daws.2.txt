@@ -1,0 +1,63 @@
+#!/bin/bash ASSG10:         SSH HTTP HTTPS Custom TCP 4000
+
+apt-get update
+
+apt-get upgrade
+
+apt-get install -y nginx
+
+systemctl start nginx
+
+systemctl enable nginx
+
+apt-get install -y git
+
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash 
+apt-get install -y nodejs
+git clone https://github.com/Sovona11/sov123.git
+ls
+cd sov123
+node index.js
+
+ASSG9:
+sudo
+sudo apt-get nginx
+sudo apt-get install nginx
+curl -Sl https://deb.nodesource.com/setup_16.x | sudo -E bash -
+ls
+cd sov123
+git pull
+HTTPS Custom TCP HTTP SSH 4000
+sudo apt-get install nodejs
+git clone https://github.com/Sovona11/sov123.git
+ls
+cd sov123
+git pull
+pwd
+npm install
+node index.js
+ASS8:
+git init
+git config --global user.name "SOVONA"
+git config --global user.email "sovonarana8@gmail.com"
+git add .
+git commit -m "upload files"
+git remote add origin https://github.com/Sovona11/sov123.git
+git branch -M main
+git push -u origin main
+ls
+git clone https://github.com/Sovona11/sov123.git
+ls
+cd sov123
+ls
+
+
+
+
+
+
+
+
+
+
+
